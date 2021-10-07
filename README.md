@@ -19,3 +19,6 @@
 ### To replicate just need to copy everything and open the index.html.
 
 ### Use to study. The code is commented in every part.
+
+
+<img src="assets/preview.jpg">
