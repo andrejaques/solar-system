@@ -12,7 +12,9 @@
 * Translation speed is in scale 1:300.000
 * Rotation Speed is out of scale (just representative)
 
-### OBS: It was implemented just the planets not dwarf planets;
+## OBS: 
+
+### It was implemented just the planets not dwarf planets;
 
 ### To replicate just need to copy everything and open the index.html.
 
