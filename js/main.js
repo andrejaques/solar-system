@@ -75,12 +75,12 @@ function init() {
   scene.background = new THREE.Color(0x000000);
   const skyboxLoader = new THREE.CubeTextureLoader();
   const skyboxTexture = skyboxLoader.load([
-      '/assets/skybox/space-xpos.jpg',
-      '/assets/skybox/space-xneg.jpg',
-      '/assets/skybox/space-ypos.jpg',
-      '/assets/skybox/space-yneg.jpg',
-      '/assets/skybox/space-zpos.jpg',
-      '/assets/skybox/space-zneg.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-xpos.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-xneg.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-ypos.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-yneg.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-zpos.jpg',
+      'https://andrejaques.github.io/solar-system-project/assets/skybox/space-zneg.jpg',
   ]);
   scene.background = skyboxTexture;
 
